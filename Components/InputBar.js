@@ -3,7 +3,7 @@ import {StyleSheet, View, Text} from 'react-native';
 
 const InputBar = () =>(
   <View>
-    <Text>Hello mutherFucker</Text>
+    <Text>Starting to work</Text>
   </View>
 );
 
