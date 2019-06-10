@@ -12,13 +12,14 @@ const Header = props =>{
 const styles = StyleSheet.create({
   header:{
     backgroundColor:'yellow',
-    height:60,
+    height:90,
     alignItems:'center',
     justifyContent:'center'
   },
   title:{
     color:'green',
     fontSize:28,
+    marginTop:30,
     fontWeight:'900',
     textTransform:'uppercase',
   }
